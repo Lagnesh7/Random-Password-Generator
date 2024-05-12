@@ -29,3 +29,6 @@ This is a simple password generator application built using Python and Tkinter G
 ## Requirements
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
+
+## Contributors
+- Lagnesh Chaudhary
