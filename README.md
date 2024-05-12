@@ -16,3 +16,7 @@ This is a simple password generator application built using Python and Tkinter G
 
     ```bash
    cd password-generator
+3. Run the "password_generator.py" file::
+
+    ```bash
+   python password_generator.py
