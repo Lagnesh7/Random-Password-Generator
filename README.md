@@ -15,8 +15,13 @@ This is a simple password generator application built using Python and Tkinter G
 2. Navigate to the project directory:
 
     ```bash
-   cd password-generator
-3. Run the "password_generator.py" file::
+   cd Random-Password-Generator
+3. Run the "Random_Password.py" file::
 
     ```bash
-   python password_generator.py
+   python Random_Password.py
+4. Enter the desired length of the password in the provided input field.
+
+5. Click on the "Generate" button to generate the password.
+
+6. A dialog box will display the generated password.
