@@ -25,3 +25,7 @@ This is a simple password generator application built using Python and Tkinter G
 5. Click on the "Generate" button to generate the password.
 
 6. A dialog box will display the generated password.
+
+## Requirements
+- Python 3.x
+- Tkinter (usually comes pre-installed with Python)
