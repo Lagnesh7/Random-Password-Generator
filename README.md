@@ -11,4 +11,4 @@ This is a simple password generator application built using Python and Tkinter G
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/password-generator.git
+   git clone https://github.com/Lagnesh7/Random-Password-Generator.git
